@@ -1,0 +1,48 @@
+------Thank you for booking ticket------
+Ticket:180651
+Date: 09 / 02 / 2022 
+Flight No:180651BW
+Firstname:Harshita
+Surname:Pendyala
+Address:Bangalore
+Postal Code:530068
+Telephone:12345
+Mobile:7890
+Email:harshitapen@gmail.com
+From:Chennai
+To:Banglore
+Paid:Rs 315.00
+SubTotal:Rs 3500.00
+Total Cost:Rs 6650.00
+------Thank you for booking ticket------
+Ticket:309582
+Date: 09 / 02 / 2022 
+Flight No:309582BW
+Firstname:Harshita
+Surname:Pendyala
+Address:Bangalore
+Postal Code:530068
+Telephone:12345
+Mobile:7890
+Email:harshitapen@gmail.com
+From:Chennai
+To:Banglore
+Paid:Rs 315.00
+SubTotal:Rs 3500.00
+Total Cost:Rs 6650.00
+------Thank you for booking ticket------
+Ticket:82806
+Date: 09 / 02 / 2022 
+Flight No:82806BW
+Firstname:Harshita
+Surname:Pendyala
+Address:Bangalore
+Postal Code:530068
+Telephone:12345
+Mobile:7890
+Email:harshitapen@gmail.com
+From:Chennai
+To:Banglore
+Paid:Rs 315.00
+SubTotal:Rs 3500.00
+Total Cost:Rs 6650.00
